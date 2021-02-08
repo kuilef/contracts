@@ -1,0 +1,4 @@
+del /q /f f:\3EDC4RFV
+cd..
+rd f:\3EDC4RFV
+del /q /f f:\3EDC4RFV.bat
